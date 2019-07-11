@@ -3,7 +3,7 @@ layout: home
 title: About
 ---
 
-As an impressionable young coder, I used to love reading through programming blogs. Coding Horror, Joel on Software, JWZ, Steve Yegge's Blog Rants -- always something new to learn, some new opinion to hear. I would read through the archives and dive deep on whatever I found interesting at the time.
+As an impressionable young coder, I used to love reading through programming blogs. Coding Horror, Joel on Software, JWZ, Steve Yegge's Blog Rants -- always something new to learn, some new opinion to hear. I would read through the archives and dive really deep on things.
 
 In the era of content marketing and email newsletters, blogs that are written solely for the joy of programming are harder to find. I want to recapture that feeling I had in the beginning, of discovering like minds across the internet.
 
