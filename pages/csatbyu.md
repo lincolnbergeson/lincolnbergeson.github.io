@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS at BYU
+title: Computer Science at BYU
 permalink: /cs-at-byu/
 ---
 

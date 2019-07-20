@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why Vim
+title: Why I Like Vim
 permalink: /vim/
 ---
 
