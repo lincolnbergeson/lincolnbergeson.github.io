@@ -1,8 +1,8 @@
-#---
-#layout: page
-#title: My Internships
-#permalink: /internships/
-#---
+---
+layout: page
+title: My Internships
+permalink: /internships/
+---
 
 My Internships: Facebook, Qualtrics, ExxonMobil
 ===
