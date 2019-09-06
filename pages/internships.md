@@ -15,7 +15,7 @@ After getting back from my LDS mission to Canada, I started a degree in Computer
 - May 2018 - August 2018: Information Technology Intern, ExxonMobil
 - September 2018 - May 2019: Qualtrics again, part-time
 - May 2019 - August 2019: Production Engineering Intern, Facebook
-- September 2019 - December 2019: Qualtrics again?
+- September 2019 - December 2019: Qualtrics again again
 
 This post is a deep dive on how I got each of these internships, what they were like, and whether or not I enjoyed them.
 
