@@ -59,10 +59,12 @@ Distributed Systems Design really had the potential to be an amazing class, but 
 Last semester (TBD)
 ===
 
-452, 460
+452, 460, 404
 
 Summary
 ===
+
+In order of how much I enjoyed them:
 
 * 405
 * 330

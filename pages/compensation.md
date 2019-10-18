@@ -33,11 +33,11 @@ $12/hr. Not much to say here. I pretended to do research for a semester while br
 
 6) Qualtrics
 
-$28/hr, then got a raise to $32/hr after a few months. Worked about 15-20 hours a week, with one weekend where I traveled to San Jose to rack servers in a colo. This was the first job I actually got by applying on a website with a resume, and something called "interviewing". Previous interviews I had done before this point where little more than formalities. But Qualtrics actually asked me technical questions and tried to assess my programming knowledge.
+$28/hr, then got a raise to $32/hr after a few months. Worked about 15-20 hours a week, with one weekend where I traveled to San Jose to rack servers in a colo. This was the first job I actually got by applying on a website with a resume, and doing something called "interviewing". Previous interviews I had done before this point where barely more than formalities. But Qualtrics actually asked me technical questions and tried to assess my programming knowledge.
 
 7) ExxonMobil
 
-$5,000/month. First salaried position! This was an internship where I regressed into my prior habit of squandering 80% of my time on hacker news and reddit, and by working on random JavaScript projects that caught my fancy. I got this job by applying at the BYU career fair and passing a behavioral interview, but I also had family connections to the people interviewing me so I suspect there may have been some bias.
+$5,500/month. First salaried position! This was an internship where I regressed into bad habits of squandering 80% of my time on hacker news and reddit and by working on whatever random vaguely-work-related-ish side projects that caught my fancy. I got this job by applying at the BYU career fair and passing a behavioral interview, but I also had family connections to the people interviewing me so I suspect there may have been some bias.
 
 8) Facebook
 

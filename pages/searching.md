@@ -4,7 +4,7 @@ title: Searching vs Executing
 permalink: /searching-executing/
 ---
 
-Searching Versus Executing
+Searching Versus Executing (WIP)
 ===
 
 For the past few months I have been percolating in my mind the concepts of "searching" and "executing" as they relate to a typical software engineer's daily work.
